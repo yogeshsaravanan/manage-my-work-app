@@ -45,5 +45,11 @@ REST_FRAMEWORK = {
     ],
 }
 
+**Create a Requirements.txt file**
 
+pip freeze > requirements.txt
+
+**Create Docker File**
+
+write the commands and create the docker File 
 
